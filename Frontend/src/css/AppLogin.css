@@ -1,0 +1,232 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'GrandHotel-Regular';
+  src: url('./../Components/fonts/GrandHotel-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Felbridge Std Bold';
+  src: url('./../Components/fonts/Felbridge_Std_Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Felbridge Std Light';
+  src: url('./../Components/fonts/Felbridge_Std_Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+body {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin: 0; 
+  background-color: #f2b33d;
+  font-size: 1.6rem;
+  font-family: 'Open Sans', sans-serif;
+  color: #2b3e51;
+}
+.login-Container {
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;
+  align-items: center; 
+  margin-top: 20vh;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 35vw; 
+  height: 55vh;
+  max-width: 1200px; 
+}
+.login-Image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #0367A6;
+  width: 40%; /* Alterado de 40% para 40vw */
+  height: 100%; /* Alterado para ocupar 100% da altura da tela */
+}
+.login-Formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;  
+  align-items: center;
+  background-image: url('./../Components/Identidade_Visual/header-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 20px; /* Adiciona um preenchimento interno */
+  width: 60%;
+  height: 100%;
+}
+.login-Image img {
+  margin-top: 2vh;
+  width: 10vw; 
+  height: auto; 
+}
+.nome-empresa {
+  font-size: 3vw; /* Alterado de rem para vw para ajustar o tamanho com a largura da tela */
+  color: #FFFFFF;
+  text-shadow: 0.1vw 0.1vw 0.2vw rgba(0, 0, 0, 0.5); /* Alterado de px para vw */
+}
+.nome-empresa .bold {
+  font-family: 'Felbridge Std Bold';
+}
+.nome-empresa .light {
+  font-family: 'Felbridge Std Light';
+}
+.palavra-edu {
+  display: flex;
+  gap: 0.5vw; /* Alterado de rem para vw */
+  flex-wrap: wrap; /* Permite que as letras se ajustem em uma nova linha em telas menores */
+}
+.edu-letra {
+  margin-top: 1vh; /* Alterado de rem para vh */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 3vw; /* Ajustado com limites mínimos e máximos */
+  height: 3vw; /* Mantendo a proporção quadrada */
+  min-width: 20px; /* Largura mínima */
+  max-width: 40px; /* Largura máxima */
+  background-color: #FFFFFF;
+  border-radius: 20%; /* Mantido em % pois se refere a uma proporção do próprio elemento */
+  color: #0367A6;
+  font-family: 'Felbridge Std Bold';
+  text-shadow: 0.1vw 0.1vw 0.2vw rgba(0, 0, 0, 0.5); /* Alterado de px para vw */
+  font-size: 1.3em; /* Tamanho da fonte responsivo */
+}
+.carrossel_Container {
+  margin-top: auto;
+  width: 13vw; /* Largura proporcional à largura da tela */
+  max-width: 400px; /* Largura máxima para evitar que fique muito grande */
+}
+.h2_bem-vindo {
+  color: white;
+  font-family: 'GrandHotel-Regular', sans-serif;
+  font-size: 2.0vw;
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 7rem;
+}
+.input_Container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.grupo_Inputs {
+  position: relative;
+  width: 100%;
+  margin: 10px 0;
+}
+.grupo_Inputs input {
+  width: 100%;
+  height: 1.8rem;
+  padding-left: 4px;
+  border-radius: 10px;
+  border: 2px solid #f0ffff;
+  outline: none;
+  background: transparent;
+  font-size: 0.9rem;
+  color: #f0ffff;
+}
+.grupo_Inputs label {
+  position: absolute;
+  top: 60%; /* centraliza verticalmente */
+  left: 8px; /* alinhamento horizontal, pode ser ajustado conforme padding do input */
+  transform: translateY(-50%); /* centraliza perfeitamente o label */
+  transition: all 0.3s;
+  pointer-events: none;
+  color: #f0ffff;
+}
+.grupo_Inputs input:focus + label,
+.grupo_Inputs input:not(:placeholder-shown) + label,
+.grupo_Inputs input:valid + label {
+  top: -15px; /* move para cima do input */
+  left: -10px;
+  transform: scale(0.85); /* diminui o tamanho */
+  color: #BDF26D; /* muda a cor */
+}
+.label_Contorno {
+  font-size: 1rem; /* Ajuste o valor conforme necessário */
+}
+.mensagem_Erro {
+  font-size: 0.8em;
+  text-align: center;
+  /* margin-top: 5px;
+  margin-bottom: 5px; */
+  min-height: 1.5rem;
+  color: red;
+}
+.btn-login {
+  width: 60%; /* Ajuste a largura conforme necessário */
+  padding: 15px;
+  margin-top: 0.8rem; /* Espaço entre o botão e o último input */
+  border: none;
+  border-radius: 10px;
+}
+.btn-login:disabled {
+  background-color: #ccc;
+  color: #666;
+  cursor: not-allowed;
+}
+.btn-login:hover {
+  background-color: #329dd5;
+  transition: all 0.2s ease;
+}
+
+#div_Logado {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;  
+  align-items: center;
+  padding: 20px; 
+  width: 60%;
+  height: 100%;
+}
+.h2_logado {
+  color: white;
+  font-family: 'Felbridge Std Bold', sans-serif;
+  font-size: 1.8vw;
+  font-weight: 300;
+  /* text-align: center; */
+}
+.btn_Logado {
+  border: none;
+  display: inline-block;
+  width: 50%;
+  padding: 20px;
+  position: relative;
+  background-color: #3ca9e2;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+/* Estilos para telas menores (por exemplo, smartphones) */
+@media screen and (max-width: 768px) {
+  .login-Container {
+    flex-direction: column;
+    width: 90vw; /* Ajustar a largura para telas menores */
+    height: auto;
+  }
+
+  .login-Image,
+  .login-Formulario {
+    width: 100%; 
+  }
+
+  .nome-empresa, .h2_bem-vindo {
+    font-size: 5vw; /* Aumentar para melhor legibilidade */
+  }
+}
+

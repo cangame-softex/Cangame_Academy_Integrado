@@ -1,0 +1,267 @@
+{
+	"p_pfizer": {
+		"id": "p_pfizer",
+		"nome": "3° Desafio Pfizer",
+		"img_src": "./Galeria_Premios/pfizer.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou em primeiro lugar na categoria Startups em Expansão",
+		"visualizar": "https://desafiopfizer.com.br/#winners",
+		"sobre": "Em sua terceira edição, o Desafio Pfizer retorna com um novo tema: A Revolução Cibernética da Saúde. A cibernética é a ciência que estuda a interação entre o homem e a máquina, entre o digital e o real. Nesse aspecto, vemos que, cada vez mais, as pessoas se relacionam com seus gadgets, apps e assistentes virtuais, na busca por um estilo de vida mais saudável, bem como profissionais de saúde estão, também, cada vez mais conectados à tecnologia para interagir com seus pacientes e aprimorar seus diagnósticos e tratamentos.",
+		"entidade": "Pfizer",
+		"ano": "2018"
+	},
+	"p_nttdata": {
+		"id": "p_nttdata",
+		"nome": "Open Innovation Contest 7.0",
+		"img_src": "./Galeria_Premios/nntdata.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou honra ao mérito por ser a startup finalista na competição.",
+		"visualizar": "",
+		"sobre": "A comunidade global enfrenta vários desafios, incluindo pobreza, fome, saúde, higiene, educação, gênero e desigualdade nacional, energia, mudança climática, destruição da natureza e manutenção da paz. Para resolver esses desafios, a inovação aberta desempenhará papéis mais importantes do que nunca, de modo que as pessoas em todo o mundo possam trabalhar juntas em fronteiras nacionais em tecnologia avançada e novos modelos de negócios para criar soluções.",
+		"entidade": "NTT DATA",
+		"ano": "2018"
+	},
+	"p_empreende2k17fin": {
+		"id": "p_empreende2k17fin",
+		"nome": "Finalista Empreenda 2K17",
+		"img_src": "./Galeria_Premios/empreende2k17.png",
+		"video_url": "",
+		"descricao": "O Cangame foi um dos 100 finalistas nacionais na competição",
+		"visualizar": "https://goo.gl/dscr4y",
+		"sobre": "O Empreenda Santander 2K17 é a evolução dos Prêmios Santander Universidades, com o objetivo de incentivar cada vez mais ideias e projetos empreendedores de todo o Brasil. É um programa completo de desenvolvimento de três perfis: universitários, startups e microempreendedores. Serão 17 negócios que poderão receber apoio financeiro, bolsas de estudo e mentoria. O foco é fomentar a cultura empreendedora, apoiar seus autores na viabilização de suas ideias, e consequentemente prosperar seus negócios.",
+		"entidade": "Santander",
+		"ano": "2017"
+	},
+	"p_1776": {
+		"id": "p_1776",
+		"nome": "1776 Challenge Cup",
+		"img_src": "./Galeria_Premios/1776.png",
+		"video_url": "",
+		"descricao": "O Cangame ficou em segundo lugar!",
+		"visualizar": "",
+		"sobre": "A 1776 é uma incubadora global e um fundo de sementes que acredita que as startups podem mudar o mundo. Estamos construindo uma comunidade global para fornecer o capital intelectual, social e financeiro que essas startups precisam ter sucesso.",
+		"entidade": "1776",
+		"ano": "2017"
+	},
+	"p_wsa": {
+		"id": "p_wsa",
+		"nome": "World Summit Awards",
+		"img_src": "./Galeria_Premios/wsa.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou em duas categorias da competição: Acessibilidade e Inclusão & Empoderamento!",
+		"visualizar": "",
+		"sobre": "O World Summit Awards é um sistema exclusivo de premiação, selecionando e promovendo a inovação digital local com alto impacto na melhoria da sociedade. Combinando uma série contínua de eventos e atividades internacionais com uma rede global de start-ups, empreendedores sociais, mentores, jurados, palestrantes, líderes governamentais, academia e sociedade civil, a WSA é uma plataforma internacional para ter um impacto na sociedade.",
+		"entidade": "World Summit Awards",
+		"ano": "2017"
+	},
+	"p_acelerate2030": {
+		"id": "p_acelerate2030",
+		"nome": "Finalista Acelerate 2030",
+		"img_src": "./Galeria_Premios/acelerate2030.png",
+		"video_url": "",
+		"descricao": "O Cangame foi um dos finalistas nacionais!",
+		"visualizar": "",
+		"sobre": "",
+		"entidade": "Acelerate 2030",
+		"ano": "2017"
+	},
+	"p_10ozires": {
+		"id": "p_10ozires",
+		"nome": "10° Prêmio Ozires Silva",
+		"img_src": "./Galeria_Premios/10ozires.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou o 1º lugar na Categoria Empreendedorismo Social!",
+		"visualizar": "",
+		"sobre": "O Prêmio reconhece os melhores projetos nas áreas de empreendedorismo e sustentabilidade, que contribuam para o desenvolvimento da sociedade. Os projetos são divididos em quatro categorias e seis modalidades.",
+		"entidade": "Instituto Superior de Administração e Economia (ISAE) e Grupo Paranaense de Comunicação (GRPCOM)",
+		"ano": "2017"
+	},
+	"p_empreendeRecife": {
+		"id": "p_empreendeRecife",
+		"nome": "Prêmio Empreende Recife 2016",
+		"img_src": "./Galeria_Premios/empreenderecife2016.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou o 2º lugar na Categoria Empreendedor Social!",
+		"visualizar": "",
+		"sobre": "O concurso tem o objetivo de reconhecer iniciativas que colaboram para a sociedade nas categorias de Empreendedor Mirim, Empreendedor Social e Negócio Inovador.",
+		"entidade": "Secretaria de Desenvolvimento e Empreendedorismo do Recife",
+		"ano": "2016"
+	},
+	"p_idearSoluciones": {
+		"id": "p_idearSoluciones",
+		"nome": "Idear Soluciones",
+		"img_src": "./Galeria_Premios/idearSoluciones.png",
+		"video_url": "",
+		"descricao": "O Cangame foi um dos dois finalistas brasileiros no Prêmio",
+		"visualizar": "",
+		"sobre": "Idear Soluções reúne algumas das mais importantes inovações das empresas industriais para debater e compartilhar soluções para os desafios de desenvolvimento.",
+		"entidade": "BID - Banco Interamericano de Desenvolvimento",
+		"ano": "2016"
+	},
+	"p_finalBerreniVentures": {
+		"id": "p_finalBerreniVentures",
+		"nome": "Final do Berrini Ventures",
+		"img_src": "./Galeria_Premios/finalBerreniVentures.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou o 2º lugar na Categoria das startups de Saúde!",
+		"visualizar": "",
+		"sobre": "Uma aceleradora dedicada a trabalhar com startups de saúde de alto potencial, para solucionar os maiores desafios do sistema de saúde.",
+		"entidade": "Aceleradora Berrini Ventures",
+		"ano": "2016"
+	},
+	"p_imagineNacional2015": {
+		"id": "p_imagineNacional2015",
+		"nome": "Imagine Cup 2015 Nacional",
+		"img_src": "./Galeria_Premios/imagineNacional2015.png",
+		"video_url": "",
+		"descricao": "O Cangame foi o 1º Lugar na categoria Cidadania, na Final Nacional do Imagine Cup!",
+		"visualizar": "",
+		"sobre": "Um programa de tecnologia estudante global e competição que oferece oportunidades para os alunos em todas as disciplinas para juntar-se e usar sua criatividade, paixão e conhecimento de tecnologia para criar aplicativos, jogos e integrar soluções que podem mudar a forma como vivemos, trabalhar e jogar.",
+		"entidade": "Microsoft",
+		"ano": "2015"
+	},
+	"p_abrilPlugPlay": {
+		"id": "p_abrilPlugPlay",
+		"nome": "Abril Plug and Play",
+		"img_src": "./Galeria_Premios/abrilPlugPlay.png",
+		"video_url": "",
+		"descricao": "O Cangame foi um dos finalistas depois de uma rigorosa seleção.",
+		"visualizar": "",
+		"sobre": "Abril Plug and Play, aceleradora de startups criada pelo Grupo Abril em parceria com a norte-americana Plug and Play Tech Center, realiza o concurso de startup.",
+		"entidade": "Abril e Plug An Play Tech",
+		"ano": "2015"
+	},
+	"p_brasilCriativo2014": {
+		"id": "p_brasilCriativo2014",
+		"nome": "Prêmio Brasil Criativo",
+		"img_src": "./Galeria_Premios/brasilCriativo2014.png",
+		"video_url": "https://www.youtube.com/embed/XLUSHYCiM-o",
+		"descricao": "O Cangame foi 1º Lugar na categoria Games!",
+		"visualizar": "",
+		"sobre": "A premiação oficial da Economia Criativa brasileira! São 22 categorias que usam a criatividade como solução para o desenvolvimento da Economia Criativa no Brasil. Moda, gastronomia, games, música, teatro, dança, circo, design, arquitetura, patrimônio, arquivos, museus, artesanato, e muitas outras atividades fazem parte de 5 campos principais que serão curados por um time de 30 especialistas.",
+		"entidade": "Project Hub",
+		"ano": "2014"
+	},
+	"p_startup360": {
+		"id": "p_startup360",
+		"nome": "Startup 360",
+		"img_src": "./Galeria_Premios/startup360.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou em 1º lugar na categoria Saúde do evento que ocorreu na Campus Party Recife!",
+		"visualizar": "",
+		"sobre": "A cada edição que passa a Campus Party Brasil tem buscado impulsionar jovens talentos e empreendedores a criarem ou tirarem seus projetos do papel. A Campus acredita que estar ao lado dos empreendedores é ajudar a construir o futuro do país. Assim é a competição Startup 360 o qual reune 50 startup de todo o Brasil.",
+		"entidade": "Campus Party Recife",
+		"ano": "2014"
+	},
+	"p_imagineCupInter2014": {
+		"id": "p_imagineCupInter2014",
+		"nome": "Imagine Cup Internacional",
+		"img_src": "./Galeria_Premios/imagineCupInter2014.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou Menção Honrosa (Honor Mention) na categoria User Experience!",
+		"visualizar": "",
+		"sobre": "Um programa de tecnologia estudante global e competição que oferece oportunidades para os alunos em todas as disciplinas para juntar-se e usar sua criatividade, paixão e conhecimento de tecnologia para criar aplicativos, jogos e integrar soluções que podem mudar a forma como vivemos, trabalhar e jogar.",
+		"entidade": "Microsoft",
+		"ano": "2014"
+	},
+	"p_imagineCupInter2014_2": {
+		"id": "p_imagineCupInter2014_2",
+		"nome": "Imagine Cup Internacional",
+		"img_src": "./Galeria_Premios/imagineCupInter2014_2.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou como melhor projeto cidadão do mundo na categoria Project Blueprint Challenge World Citizenship!",
+		"visualizar": "",
+		"sobre": "Um programa de tecnologia estudante global e competição que oferece oportunidades para os alunos em todas as disciplinas para juntar-se e usar sua criatividade, paixão e conhecimento de tecnologia para criar aplicativos, jogos e integrar soluções que podem mudar a forma como vivemos, trabalhar e jogar.",
+		"entidade": "Microsoft",
+		"ano": "2014"
+	},
+	"p_desafioBrasil": {
+		"id": "p_desafioBrasil",
+		"nome": "Desafio Brasil",
+		"img_src": "./Galeria_Premios/desafioBrasil.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou em 1º Lugar na categoria Co-criação!",
+		"visualizar": "",
+		"sobre": "O Desafio Brasil é um programa educacional voltado ao empreendedorismo e a inovação onde startups de jovens empreendedores competem pelo reconhecimento e visibilidade da comunidade de venture capital nacional e internacional.",
+		"entidade": "FGV",
+		"ano": "2014"
+	},
+
+	"p_criativar": {
+		"id": "p_criativar",
+		"nome": "Criativar",
+		"img_src": "./Galeria_Premios/criativar.png",
+		"video_url": "",
+		"descricao": "O Cangame foi o 2º Lugar!",
+		"visualizar": "",
+		"sobre": "Iniciativa do Cemec, o concurso é parte do programa Empreendedores Criativos, realizado em parceria estratégica com o banco Santander, e funciona como uma consultoria colaborativa, coordenada pelos consultores Leonardo Brant e Erick Krulikowski. o concurso que vai selecionar sete empreendedores para participar do Criativar, laboratório de ativação e desenvolvimento de negócios criativos.",
+		"entidade": "Santander",
+		"ano": "2013"
+	},
+	"p_desafioIntel": {
+		"id": "p_desafioIntel",
+		"nome": "Desafio Intel",
+		"img_src": "./Galeria_Premios/desafioIntel.png",
+		"video_url": "",
+		"descricao": "O Cangame foi finalista na competição!",
+		"visualizar": "",
+		"sobre": "Competição de empreendedorismo busca novas empresas de tecnologia da informação e comunicação; vencedor irá passar por um programa de aceleração de startups.",
+		"entidade": "Intel",
+		"ano": "2013"
+	},
+	"p_creativeBusCup": {
+		"id": "p_creativeBusCup",
+		"nome": "Creative Business Cup",
+		"img_src": "./Galeria_Premios/creativeBusCup.png",
+		"video_url": "",
+		"descricao": "O Cangame foi finalista na competição brasileira!",
+		"visualizar": "",
+		"sobre": "Uma rede global única e de mercado que permite que os empreendedores criativos para dimensionar seus conceitos de negócio, contato com investidores e parceiros e aumentar o seu potencial de negócios internacional.",
+		"entidade": "Center for Cultural and Experience Economy",
+		"ano": "2013"
+	},
+	"p_peterMuranyi": {
+		"id": "p_peterMuranyi",
+		"nome": "Prêmio Péter Murányi",
+		"img_src": "./Galeria_Premios/peterMuranyi.png",
+		"video_url": "",
+		"descricao": "Reconhecimento do Cangame na categoria Saúde!",
+		"visualizar": "",
+		"sobre": "Criada em 1999, a Fundação Péter Murányi tem por objetivo reconhecer e premiar trabalhos que, de forma inovadora, melhorem a qualidade de vida das populações em desenvolvimento. Este intuito já entregou 14 prêmios anuais, alternados, nas áreas de: Saúde, Desenvolvimento Científico e Tecnológico, Alimentação e Educação.",
+		"entidade": "Fundação Péter Murányi",
+		"ano": "2013"
+	},
+	"p_intelISEF": {
+		"id": "p_intelISEF",
+		"nome": "Intel ISEF",
+		"img_src": "./Galeria_Premios/intelISEF.png",
+		"video_url": "",
+		"descricao": "Participam do evento projetos de 50 nações diferentes de todo o mundo O Cangame fez parte da delegação Brasileira o qual foi um dos grandes finalistas",
+		"visualizar": "",
+		"sobre": "A Intel ISEF (International Science and Engineering Fair) é a Feira Internacional de Ciências e Engenharia realizada anualmente, em maio, nos EUA. Desde 1950 uma cidade estadounidense diferente hospeda a feira a cada ano. É a maior feira para estudantes que ainda não chegaram ao nível universitário!",
+		"entidade": "Intel",
+		"ano": "2013"
+	},
+	"p_imagineNacional2013": {
+		"id": "p_imagineNacional2013",
+		"nome": "Imagine Cup Nacional",
+		"img_src": "./Galeria_Premios/imagineNacional2013.png",
+		"video_url": "",
+		"descricao": "O Cangame ganhou em 1º Lugar na categoria Inovação!",
+		"visualizar": "",
+		"sobre": "Um programa de tecnologia estudante global e competição que oferece oportunidades para os alunos em todas as disciplinas para juntar-se e usar sua criatividade, paixão e conhecimento de tecnologia para criar aplicativos, jogos e integrar soluções que podem mudar a forma como vivemos, trabalhar e jogar.",
+		"entidade": "Microsoft",
+		"ano": "2013"
+	},
+	"p_mostratec2012": {
+		"id": "p_mostratec2012",
+		"nome": "MOSTRATEC 2012",
+		"img_src": "./Galeria_Premios/mostratec2012.png",
+		"video_url": "",
+		"descricao": "Essa ação realizada pelo empreendedorismo do Life Up rendeu o 1º Lugar com o projeto Cangame na categoria Ciências da Computação!",
+		"visualizar": "",
+		"sobre": "A Mostratec é uma feira de ciência e tecnologia realizada anualmente pela Fundação Liberato, na cidade de Novo Hamburgo, Rio Grande do Sul, Brasil. Destina-se a apresentação de projetos de pesquisa em diversas áreas do conhecimento humano, realizados por jovens cientistas do ensino médio e da educação profissional técnica de nível médio.",
+		"entidade": "Fundação Liberato",
+		"ano": "2012"
+	}
+}

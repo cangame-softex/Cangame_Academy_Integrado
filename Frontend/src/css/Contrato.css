@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'GrandHotel-Regular';
+    src: url('../Components/fonts/GrandHotel-Regular.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'Felbridge Std Bold';
+    src: url('../Components/fonts/Felbridge_Std_Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Felbridge Std Light';
+    src: url('../Components/fonts/Felbridge_Std_Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+.form {
+    flex-grow: 1;
+    padding: 7px;
+    margin: 100px;
+    margin-top: 0.5%;
+  }
+  .form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-family: 'Felbridge Std Bold';
+  }
+  .form input {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  .form button {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #024873;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 300px;
+    height: 50px;
+    box-shadow: 4px 4px 0px #626e73;
+    transition: backgroud-color 0.3s;
+    align-items: center;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }

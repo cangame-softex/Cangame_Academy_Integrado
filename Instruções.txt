@@ -1,0 +1,9 @@
+Para executar o frontend apos clonar :
+apagar a pasta node_modules
+apagar o arquivo package-lock.json
+executar npm install
+executar npm start
+
+Para executar o FrontEnd
+executar npm install
+executar npm start
