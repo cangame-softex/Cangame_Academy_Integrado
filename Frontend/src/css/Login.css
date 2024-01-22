@@ -19,7 +19,7 @@
   font-weight: 300;
   font-style: normal;
 }
-.body {
+.login-page {
   display: flex; 
   justify-content: center;
   align-items: center;
@@ -157,8 +157,6 @@
 .mensagem_Erro {
   font-size: 0.8em;
   text-align: center;
-  /* margin-top: 5px;
-  margin-bottom: 5px; */
   min-height: 1.5rem;
   color: red;
 }
@@ -178,7 +176,6 @@
   background-color: #329dd5;
   transition: all 0.2s ease;
 }
-
 #div_Logado {
   display: flex;
   flex-direction: column;
@@ -193,7 +190,6 @@
   font-family: 'Felbridge Std Bold', sans-serif;
   font-size: 1.8vw;
   font-weight: 300;
-  /* text-align: center; */
 }
 .btn_Logado {
   border: none;
@@ -219,12 +215,10 @@
     width: 90vw; /* Ajustar a largura para telas menores */
     height: auto;
   }
-
   .login-Image,
   .login-Formulario {
     width: 100%; 
   }
-
   .nome-empresa, .h2_bem-vindo {
     font-size: 5vw; /* Aumentar para melhor legibilidade */
   }

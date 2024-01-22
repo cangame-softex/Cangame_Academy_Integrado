@@ -1,33 +1,29 @@
 /* LicenseTable.css */
 .table-container {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start; /* Alinha a tabela no topo */
-    flex-grow: 1; /* Isso faz com que a tabela ocupe o espaço restante */
-    margin-top: 100px; /* Ajuste a margem superior para mover a tabela para baixo */
-  }
-  
-  .table-wrapper {
-    border: 2px solid black;
-    padding: 20px;
-    width: 80%; /* Aumenta a largura da tabela para 80% */
-    margin: 0 auto; /* Centraliza a tabela */
-  }
-  
-  .styled-table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  .styled-table th,
-  .styled-table td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  
-  .styled-table th {
-    background-color: #f2f2f2;
-    padding-top: 12px;
-    padding-bottom: 12px;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Alinha a tabela no topo */
+  flex-grow: 1; /* Isso faz com que a tabela ocupe o espaço restante */
+  margin-top: 100px; /* Ajuste a margem superior para mover a tabela para baixo */
+}
+.table-wrapper {
+  border: 2px solid black;
+  padding: 20px;
+  width: 80%; /* Aumenta a largura da tabela para 80% */
+  margin: 0 auto; /* Centraliza a tabela */
+}
+.styled-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.styled-table th,
+.styled-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+.styled-table th {
+  background-color: #f2f2f2;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}

@@ -1,39 +1,36 @@
 @font-face {
-    font-family: 'GrandHotel-Regular';
-    src: url('../Components/fonts/GrandHotel-Regular.woff2') format('woff2');
-  }
-  @font-face {
-    font-family: 'Felbridge Std Bold';
-    src: url('../Components/fonts/Felbridge_Std_Bold.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'Felbridge Std Light';
-    src: url('../Components/fonts/Felbridge_Std_Light.woff2') format('woff2');
-    font-weight: 300;
-    font-style: normal;
-  }
-
-  .home_container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    padding: 6em;
-    margin: 15px;
-  }
-
-  .home_container img{
-    width: 180px;
-    height: 180px;
-    background-color: white;
-    box-shadow: 0px 0px 5px;
-    cursor: pointer;
-  }
-
- .imagem h3 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
- }
+  font-family: 'GrandHotel-Regular';
+  src: url('../Components/fonts/GrandHotel-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Felbridge Std Bold';
+  src: url('../Components/fonts/Felbridge_Std_Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Felbridge Std Light';
+  src: url('../Components/fonts/Felbridge_Std_Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+.home_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 6em;
+  margin: 15px;
+}
+.home_container img{
+  width: 180px;
+  height: 180px;
+  background-color: white;
+  box-shadow: 0px 0px 5px;
+  cursor: pointer;
+}
+.imagem h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

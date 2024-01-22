@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import axios from 'axios'; // Para fazer requisições HTTP
-import { useState } from 'react'; // Hook do React para gerenciar estado
+import { useState, useEffect } from 'react';
 import Logo from './logo-cangame.png'; // Importa a imagem do logo
 import CarrosselPremios from './CarrosselPremios'; // Componente de carrossel
 import InputLogin from './InputLogin'; // Componente personalizado para input
@@ -15,6 +15,16 @@ function Login() {
     const [error, setError] = useState('');
     const [usuario, setUsuario] = useState(null);
     const navigate = useNavigate();
+
+    useEffect(() => {
+        // Adiciona a classe ao body
+        document.body.classList.add('login-page');
+
+        // Função de limpeza para remover a classe
+        return () => {
+            document.body.classList.remove('login-page');
+        };
+    }, []);    
 
     // Função para lidar com o processo de login
     const handleLogin = async (evento) => {
