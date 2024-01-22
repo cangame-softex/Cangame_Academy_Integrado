@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Layout from "../Components/Layout";
 import "../css/Contrato.css";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const Contrato = () => {
   const [logoTipo, setLogoTipo] = useState(null);

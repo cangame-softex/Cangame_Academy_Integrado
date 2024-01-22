@@ -5,6 +5,7 @@ import { useState } from 'react'; // Hook do React para gerenciar estado
 import Logo from './logo-cangame.png'; // Importa a imagem do logo
 import CarrosselPremios from './CarrosselPremios'; // Componente de carrossel
 import InputLogin from './InputLogin'; // Componente personalizado para input
+import '../css/Login.css';
 
 // Componente funcional 'Login'
 function Login() {

@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "./Layout";
 import "../css/Layout.css";
 import "../css/License.css";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import { useForm } from 'react-hook-form';
 
 function License() {

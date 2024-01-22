@@ -1,8 +1,8 @@
 import React from "react";
-import '../css/LayoutHome.css';
 import { Link } from "react-router-dom";
-import Logo from "../img/logoCangame.png";
 import Container from "./Container";
+import '../css/LayoutHome.css';
+import Logo from "../img/logoCangame.png";
 import contrato from "../img/Contrat.jpg"
 import licenças from "../img/License.jpg"
 import Controle from "../img/Control.jpg"

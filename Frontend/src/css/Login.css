@@ -19,7 +19,7 @@
   font-weight: 300;
   font-style: normal;
 }
-body {
+.body {
   display: flex; 
   justify-content: center;
   align-items: center;
